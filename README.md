@@ -46,4 +46,4 @@ Para dar un poco de información de mí como persona, estas son algunas de las a
 - Juegos de mesa :game_die:
 - Juegos de rol :crystal_ball:
 - Patinaje :roller_skate:
-- Pintura de miniaturas:paintbrush:
+- Pintura de miniaturas :paintbrush:
