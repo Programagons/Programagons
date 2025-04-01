@@ -46,4 +46,10 @@ Para dar un poco de información de mí como persona, estas son algunas de las a
 - Juegos de mesa :game_die:
 - Juegos de rol :crystal_ball:
 - Patinaje :roller_skate:
-- Pintura de miniaturas:paintbrush:
+- Pintura de miniaturas :paintbrush:
+
+
+## Puedes encontrarme en:
+
+- [LinkedIn](https://es.linkedin.com/in/gonzalo-pulido-cabrilla-869832215)
+- [Instagram](https://www.instagram.com/gonsplitters1/)
