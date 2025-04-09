@@ -52,4 +52,4 @@ Para dar un poco de información de mí como persona, estas son algunas de las a
 ## Puedes encontrarme en:
 
 - [LinkedIn](https://es.linkedin.com/in/gonzalo-pulido-cabrilla-869832215)
-- [Instagram](https://www.instagram.com/gonsplitters1/)
+
